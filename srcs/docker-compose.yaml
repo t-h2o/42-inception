@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  my-alpine:
+    build: simple-alpine
+    image: simple-alpine
